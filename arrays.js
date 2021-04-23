@@ -41,3 +41,7 @@ function destructivelyRemoveElementFromEndOfArray(array) {
   return array
  
 }
+
+fucntion removeElementFromEndOfArray(array) {
+  
+}
